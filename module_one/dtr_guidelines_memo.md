@@ -32,35 +32,61 @@ Any additional questions that you would like to add:
 
 ### Template for DTR Memo
 
-Project: 
+Project: Futbol
 
-Group Member Names:
+Group Member Names: Joe B, V, Dominic, Max
 
 Goals and Expectations for the Project (What does each group member hope to get out of this project? What do we want to achieve as a team? How will we know that we're successful?):
+
+Learn technical skills and approaching problems. Mostly paired work, with tri-day meetings. Better at git with groups. Success is measured by feedback and the grades! We want to feel like we could keep working, and the end of the project is not the end of the line.
 	
 Team strengths & collaboration styles (consider discussing your Pairin qualities here):
 
+Awesome communication! Taking initiative to make mistakes.
+
 How we can use our strengths to overcome obstacles:
+
+We are creating a safe space for sharing, trial and error, and collaboration.
 
 Schedule Expectations (When are we available to work together and individually? What constraints do we have? Make sure to discuss the remote questions above in regards to this section):
 
+Definitely inclusive of nights off. Consistent and informative planning. Tri-day checkups with the whole group. Keep time at the end of project for refactoring, abstraction, and prettyfying.
+
 Communication Expectations (How and often will we communicate? How do we keep lines of communication open? How will we make decisions as a team? How will we communicate about our emotional and mental well-being with each other?):
+
+Communicating early and often.
 
 Abilities & Growth Expectations (Technical strengths and areas for desired improvement):
 
-Workload Expectations (What features do we each want to work on?):
+More comfortable working between classes. Working with nested objects. Better at communicating technical ideas. Understanding foreign code. Growing habits of commenting on code, both in the editor and github.
+
+Workload Expectations (What features do we each want to work on?): 
+
+/skipped for now/
 
 Workflow Expectations (Git workflow/Tools/Code Review/Reviewing Pull Requests/Debugging and Problem-solving Techniques): 
 
+Github workflow, and a project management board. Make code that works, then prettyfy it. The other partner pair takes lead on refactoring. NEVER WORK IN MAIN PLS.
+
 Pomodoro Break Schedule:
+
+We will take breaks. (25 on, 5 off) x3 then 20 off- as a baseline. Focus App.
 
 Expectations for giving and receiving feedback:
 
+Respectful, specific, actionable. Err on the side of _more_ over less helpful feedback.
+
 Additional Remote Considerations:
+
+Our health comes first. 
 
 Project management tools we will use (GitHub projects or Trello are popular tools):
 
+GitHub projects
+
 Day 1 Agenda: 
+
+Plan schedule first. Then work on a project plan - splitting tasks/directional planning.
 
 Additional Notes:
 
